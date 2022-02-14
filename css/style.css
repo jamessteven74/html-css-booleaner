@@ -1,6 +1,7 @@
 body{
     box-sizing: border-box;
     margin: 0;
+    padding-left: 10px;
 }
 .pattern{
     background-color: #0089ff;
@@ -16,4 +17,17 @@ body{
 
 #list{
     padding-left: 0;
+}
+
+#logo{
+   width: 300px;
+   padding-bottom: 20px;
+}
+
+.booleaner{
+    color: #739dc2;
+}
+
+.lightblue{
+    background-color: #7ab7ec;
 }
