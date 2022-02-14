@@ -1,0 +1,10 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+}
+#pattern{
+    background-color: #0089ff;
+}
+.color_grey{
+    color: #444748f2;
+}
