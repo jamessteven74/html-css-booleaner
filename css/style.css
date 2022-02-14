@@ -31,3 +31,17 @@ body{
 .lightblue{
     background-color: #7ab7ec;
 }
+
+table{
+    border-collapse: collapse;
+}
+
+.image1{
+    position: relative;
+}
+
+#absolute{
+    position: absolute;
+    top: 0;
+    left: 5;
+}
