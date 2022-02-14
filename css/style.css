@@ -3,8 +3,9 @@ body{
     margin: 0;
     padding-left: 10px;
 }
-.pattern{
+.pattern1{
     background-color: #0089ff;
+    background-image: url(../img/pattern.png);
 }
 
 .color_grey{
@@ -21,7 +22,7 @@ body{
 
 #logo{
    width: 300px;
-   padding-bottom: 20px;
+   padding-top: 20px;
 }
 
 .booleaner{
@@ -36,7 +37,7 @@ table{
     border-collapse: collapse;
 }
 
-.image1{
+/* #image1{
     position: relative;
 }
 
@@ -44,4 +45,14 @@ table{
     position: absolute;
     top: 0;
     left: 5;
+} */
+
+.pattern2{
+    background-color: #0089ff;
 }
+h2{
+    color: #444748f2 ;
+}
+
+
+
